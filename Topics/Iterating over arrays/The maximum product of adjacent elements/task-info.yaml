@@ -1,0 +1,20 @@
+type: code
+files:
+- name: src/Main.java
+  visible: true
+  text: |-
+    class Main {
+        public static void main(String[] args) {
+            // put your code here
+        }
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/2137#comment
+status: Failed
+feedback:
+  message: "Failed test #1 of 10. Runtime error\n\nThis is a sample test from the\
+    \ problem statement!\n\nTest input:\n2\n5 3\nCorrect output:\n15\n\nYour code\
+    \ output:\n\n\nError:\nException in thread \"main\" java.lang.ArrayIndexOutOfBoundsException:\
+    \ Index 2 out of bounds for length 2\n\tat Main.main(Main.java:15)\n"
+  time: Thu, 04 Nov 2021 19:08:28 UTC
+record: -1
